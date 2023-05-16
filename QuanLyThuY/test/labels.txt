@@ -1,0 +1,5 @@
+0 cat
+1 dog
+2 hamster
+3 human
+4 bird
